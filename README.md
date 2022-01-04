@@ -1,2 +1,2 @@
-# ITM
-ITM assignments
+# Intro to HTML
+ITM Intro to HTML
